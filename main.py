@@ -1,4 +1,3 @@
-
 %load_ext autoreload
 %autoreload 2
 !wget https://raw.githubusercontent.com/yotam-biu/ps9/main/parkinsons.csv -O /content/parkinsons.csv
